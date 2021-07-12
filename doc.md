@@ -63,7 +63,7 @@ Some distributions will install automatically when installing Flask. So don't be
 * Create a project folder and within that create **venv** folder
 * We can do the above task by executing some commands in command prompt.
 
-![windowsn.png](attachment:windowsn.png)
+![windowsn.png](attachment:mdimages/windowsn.png)
 
 **Step-2: Activate the environment**
 
